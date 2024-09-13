@@ -4,6 +4,8 @@
 
 If you're interested in contributing a project to CNCF, please see the full project proposal process is located [here](https://github.com/cncf/toc/blob/main/process/project_proposals.md).
 
+<!--- The above link 404s as the file does not exist on main in /process folder.  --->
+
 ## Contributing to Technical Advisory Groups and Working Groups
 
 There has been a call from CNCF’s Technical Oversight Committee (TOC) for contributions to [CNCF TAGs](https://github.com/cncf/toc/blob/main/tags/cncf-tags.md) and [working groups](https://github.com/cncf/toc#working-groups).
